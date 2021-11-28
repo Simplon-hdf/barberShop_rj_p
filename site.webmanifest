@@ -1,7 +1,14 @@
 {
   "short_name": "C.b.L.",
   "name": "Cut by Luis",
-  "Autor":"Prasanna & Rene-Jean",
+  "Authors":[
+  {
+    "name":"Prasanna Balasubramaniyam"
+  },
+  {
+    "name":"Rene-jean Rugaba"
+  }
+],
   "icons": [{
     "src": "red-beard.ico",
     "type": "image/ico",
